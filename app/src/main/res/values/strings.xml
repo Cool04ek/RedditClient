@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reddit</string>
+
+    <string name="action_favorite">Favorite</string>
+    <string name="action_search">Search</string>
+
+    <string name="tab_top">Programmer Humor</string>
+    <string name="tab_favorites">Favorites</string>
+
+    <string name="comments_pattern">%d comments</string>
+</resources>
